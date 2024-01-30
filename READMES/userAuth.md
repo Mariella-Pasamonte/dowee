@@ -22,12 +22,12 @@ This is used to authenticate users and provide access to Doify.
 #### Data Dictionary
 
 | Element ID            | Element Text                   | Element Type | Data Type | Required? | Rules                    |
-|:---------------------:|:------------------------------:|:------------:|:---------:|:---------:|:-------------------------:|
-| LoginHeader           | Login                          | Header       |            |           |                           |
-| LoginSubHeader        | Welcome to Doify               | SubHeader    |            |           |                           |
-| LoginUsername         | Enter your username            | Text         | Text      | Yes       |                           |
-| LoginPassword         | Enter your password            | Password     | Text      | Yes       | Masked                    |
-| LoginInvalidUsername  | Invalid username and password. | Text         |           |     | Hidden                          |
-| LoginForgotPassword   | Forgot password?               | Link         |           |           | Hidden                           |
-| LoginSignUp           | New to Doify? Sign up now      | Link         |           |           |                           |
-| LoginButton           | Login                          | Button       |           |           |                           |
+|:---------------------:|:------------------------------:|:------------:|:---------:|:---------:|:------------------------:|
+| LoginHeader           | Login                          | Header       |           |           |                          |
+| LoginSubHeader        | Welcome to Doify               | SubHeader    |           |           |                          |
+| LoginUsername         | Enter your username            | Text         | Text      | Yes       |                          |
+| LoginPassword         | Enter your password            | Password     | Text      | Yes       | Masked                   |
+| LoginInvalidUsername  | Invalid username and password. | Text         |           |           | Hidden                   |
+| LoginForgotPassword   | Forgot password?               | Link         |           |           | Hidden                   |
+| LoginSignUp           | New to Doify? Sign up now      | Link         |           |           |                          |
+| LoginButton           | Login                          | Button       |           |           |                          |
