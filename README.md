@@ -3,6 +3,8 @@
 ![Logo Two](https://github.com/Mariella-Pasamonte/dowee/blob/main/Images/logo3.png)
 
 ### Project Description 
+Doify is a comprehensive solution designed to tackle the challenges of time tracking, project management, and invoicing within a unified application. The primary goal of Doify is to break down barriers by offering essential features without imposing a paywall, ensuring accessibility for small businesses and independent contractors.
+
 ### Target: DW.001.001
 
 [Revisions](READMES/revisions.md)
