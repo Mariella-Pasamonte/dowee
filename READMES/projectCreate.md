@@ -21,16 +21,16 @@ This is used to enable managers to create new projects within Doify.
 
 #### Data Dictionary
 
-| Element ID | Element Text | Element Type | Data Type | Required? | Rules |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ProjectTitle | Project Title | Text | Text | Yes | |
-| ClientName | ClientName | Text | Text | Yes | |
-| ClientEmailAd | Email Address | Text | Text | Yes | |
-| ClientContactNo | ContactNumber | Text | Integer | | |
-| ProjectStartDate | IssuedOn | Text | Text | | |
-| ProjectEndDate | DueDate | Text | Text | | |
-| ProjectDescription | Project Description | Text | Text | | |
-| ProjectAddEmployee | Employee | Button | | | |
-| ProjectCreate | Create Project | Button | | Yes | |
-| ProjectCreateError | Please fill up required fields | Text | | | Hidden |
+|     Element ID     |           Element Text         | Element Type | Data Type | Required? |  Rules |
+|        :---:       |              :---:             |     :---:    |   :---:   |   :---:   |  :---: |
+|    ProjectTitle    |          Project Title         |     Text     |    Text   |    Yes    |        |
+|     ClientName     |           ClientName           |     Text     |    Text   |    Yes    |        |
+|    ClientEmailAd   |          Email Address         |     Text     |    Text   |    Yes    |        |
+|   ClientContactNo  |          ContactNumber         |     Text     |  Integer  |           |        |
+|  ProjectStartDate  |            IssuedOn            |     Text     |    Text   |           |        |
+|   ProjectEndDate   |             DueDate            |     Text     |    Text   |           |        |
+| ProjectDescription |       Project Description      |     Text     |    Text   |           |        |
+| ProjectAddEmployee |            Employee            |    Button    |           |           |        |
+|    ProjectCreate   |         Create Project         |    Button    |           |    Yes    |        |
+| ProjectCreateError | Please fill up required fields |     Text     |           |           | Hidden |
 
