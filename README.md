@@ -6,7 +6,7 @@
 
 [Site Map](READMES)
 1. [Homepage](READMES)
-2. [User Authentication](READMES/UserAuth.md)
+2. [User Authentication](READMES/userAuth.md)
 	- [Login](READMES/projectCreate.md)
 	- [Create Account](test1.md)
 3. [Project Creation](test1.md)
