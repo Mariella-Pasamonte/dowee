@@ -13,7 +13,7 @@ Doify is a comprehensive solution designed to tackle the challenges of time trac
 1. [Homepage](READMES)
 2. [User Authentication](READMES/userAuth.md)
 	- [User Login](READMES/userAuth.md#user-login)
-3. [Project Creation](test1.md)
+3. [Project Creation](READMES/projectCreate.md)
 	- [Create Project](test1.md)
 4. [Task Assignment](READMES/taskAssignment.md)
 5. [Hour Logging](test.md)
