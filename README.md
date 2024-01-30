@@ -1,6 +1,6 @@
 # Doify (Dowee)
 
-![Logo](../Images/logo2.png)
+![Logo Two](https://github.com/Mariella-Pasamonte/dowee/blob/main/Images/logo2.png)
 
 ### Project Description 
 ### Target: DW.001.001
