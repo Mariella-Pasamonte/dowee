@@ -23,13 +23,13 @@ This is used to allow managers to assign tasks to team members within a project.
 
 #### Data Dictionary
 
-| Element ID | Element Text | Element Type | Data Type | Required? | Rules |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| TaskName | Task Name | Text | Text | Yes | |
-| TaskPaymentType | PaymentType | Toggle Button | | Yes | |
-| TaskPaymentMethod | PaymentMethod | Dropdown | | Yes | |
-| TaskEmployee | Employee | Text | | | |
-| TaskDescription | Task Description | Text | | | |
-| TaskCancel | Cancel | Button | | | |
-| TaskCreate | Create | Button | | | |
-| TaskErrorCreating | Please fill out the required fields | Text | | | Hidden |
+|     Element ID    |             Element Text            |  Element Type | Data Type | Required? |  Rules |
+|       :---:       |                :---:                |      :---:    |   :---:   |   :---:   |  :---: |
+|      TaskName     |              Task Name              |      Text     |    Text   |    Yes    |        |
+|  TaskPaymentType  |             PaymentType             | Toggle Button |           |    Yes    |        |
+| TaskPaymentMethod |            PaymentMethod            |    Dropdown   |           |    Yes    |        |
+|    TaskEmployee   |               Employee              |      Text     |           |           |        |
+|  TaskDescription  |           Task Description          |      Text     |           |           |        |
+|     TaskCancel    |                Cancel               |     Button    |           |           |        |
+|     TaskCreate    |                Create               |     Button    |           |           |        |
+| TaskErrorCreating | Please fill out the required fields |      Text     |           |           | Hidden |
