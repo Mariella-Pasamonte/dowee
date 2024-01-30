@@ -1,4 +1,4 @@
-[READMEs](/READMES) > [User Authentication](userAuth.md) 
+[READMEs](/READMES) > User Authentication
 
 # User Authentication
 The system must authenticate users before provideing access to Doify. This involves secure login methods such as username and password.
