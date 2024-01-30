@@ -1,4 +1,7 @@
 # Doify (Dowee)
+
+![Logo](../Images/logo2.png)
+
 ### Project Description 
 ### Target: DW.001.001
 
