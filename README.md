@@ -9,7 +9,6 @@ Doify is a comprehensive solution designed to tackle the challenges of time trac
 
 [Revisions](READMES/revisions.md)
 
-[Site Map](READMES)
 1. [Homepage](READMES)
 2. [User Authentication](READMES/userAuth.md)
 	- [User Login](READMES/userAuth.md#user-login)
