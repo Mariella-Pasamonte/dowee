@@ -1,4 +1,4 @@
-[READMEs](/READMES) > Project Management
+[READMEs](../README.md) > Project Management
 
 # Project Management
 The system provides a comprehensive set of tools and features to streamline project-related tasks and enhance collaboration among team members.

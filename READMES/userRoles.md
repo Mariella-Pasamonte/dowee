@@ -1,4 +1,4 @@
-[READMEs](/READMES) > User Roles and Permissions
+[READMEs](../README.md) > User Roles and Permissions
 
 # User Roles and Permissions
 Different user roles (e.g., admin, manager, employee) should have distinct permissions for accessing and modifying data within Doify.

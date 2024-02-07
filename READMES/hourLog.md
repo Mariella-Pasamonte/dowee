@@ -1,4 +1,4 @@
-[READMEs](/READMES) > Hour Logging
+[READMEs](../README.mdS) > Hour Logging
 
 # Hour Logging
 Users should be able to log their working hours effortlessly, providing a simple interface with options to enter hours worked on specific tasks.

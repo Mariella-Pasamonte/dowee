@@ -1,4 +1,4 @@
-[READMEs](/READMES) > Real-Time Tracking
+[READMEs](../README.md) > Real-Time Tracking
 
 # Real-Time Tracking
 Doify should support realtime tracking of work hours to reduce manual input, providing accurate and up-todate data for billing and payroll.

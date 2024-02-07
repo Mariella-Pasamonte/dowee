@@ -1,4 +1,4 @@
-[READMEs](/READMES) > Timer Customization
+[READMEs](../README.md) > Timer Customization
 
 # Timer Customization
 Users must have the ability to set up timers based on their needs, providing flexibility in tracking time for different tasks and projects.

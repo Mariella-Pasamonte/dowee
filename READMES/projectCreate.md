@@ -1,4 +1,4 @@
-[READMEs](/READMES) > Project Creation
+[READMEs](../README.md) > Project Creation
 
 # Project Creation
 Managers must be able to create projects, specifying objectives, deadlines, and relevant details for effective project management.

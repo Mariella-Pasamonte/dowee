@@ -1,4 +1,4 @@
-[READMEs](/READMES) > Automatic Invoice Generation
+[READMEs](../README.md) > Automatic Invoice Generation
 
 # Automatic Invoice Generation
 The system should automatically generate invoices based on tracked data, ensuring accuracy and efficiency in the billing process.
